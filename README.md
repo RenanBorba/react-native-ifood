@@ -188,7 +188,7 @@ O projeto foi concebido pensando em maneiras fáceis para o desenvolvimento das 
 <br><br><br><br><br><br>
 
 ### 3.2 Interface de Pedidos em andamento
-#### 3.2.1 pages/Requests/index.js
+#### 3.2.1 src/pages/Requests/index.js
 
 <br>
 
