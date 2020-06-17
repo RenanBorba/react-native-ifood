@@ -211,7 +211,6 @@ O projeto foi concebido pensando em maneiras fáceis para o desenvolvimento das 
 
 ![18](https://user-images.githubusercontent.com/48495838/76151808-bf0f4a80-6097-11ea-88fa-22659513e5ac.png)
 
-<br><br>
-<br>
+<br><br><br>
 
 Renan Borba.
