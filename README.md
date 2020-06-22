@@ -157,7 +157,7 @@ O projeto foi concebido pensando em maneiras fáceis para o desenvolvimento das 
 
 </div>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ## 2 Interface de Busca
 ### 2.1 src/pages/Search/index.js
@@ -185,7 +185,7 @@ O projeto foi concebido pensando em maneiras fáceis para o desenvolvimento das 
 
 ![14](https://user-images.githubusercontent.com/48495838/76021522-314f2600-5f04-11ea-803f-001d40460edf.png)
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 ### 3.2 Interface de Pedidos em andamento
 #### 3.2.1 src/pages/Requests/index.js
@@ -194,10 +194,7 @@ O projeto foi concebido pensando em maneiras fáceis para o desenvolvimento das 
 
 ![15](https://user-images.githubusercontent.com/48495838/76150957-566fa000-608e-11ea-928f-383d6a2cbfcf.png)
 
-<br><br><br>
-<br>
-
-<br><br><br>
+<br><br><br><br><br><br>
 
 ## 4 Interface de Perfil
 ### 4.1 src/pages/Profile/index.js
