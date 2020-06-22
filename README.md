@@ -77,7 +77,8 @@ O projeto foi concebido pensando em maneiras fáceis para o desenvolvimento das 
       <li>git push origin my-feature</li>
     </ul>
 </ul>
-<br><br><br>
+<br><br>
+<br>
 
 <div align="center">
   
@@ -85,7 +86,8 @@ O projeto foi concebido pensando em maneiras fáceis para o desenvolvimento das 
 
 </div>
 
-<br><br><br>
+<br><br>
+<br>
 
 ## :mega: Segue abaixo as principais interfaces:
 
