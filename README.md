@@ -8,19 +8,15 @@
 
 <div align="center">
 
-[![Build Status](https://img.shields.io/github/stars/RenanBorba/react-native-ifood.svg)](https://github.com/RenanBorba/react-native-ifood) [![Build Status](https://img.shields.io/github/forks/RenanBorba/react-native-ifood.svg)](https://github.com/RenanBorba/react-native-ifood) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native)
+[![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/react-native-ifood.svg)](https://github.com/RenanBorba/react-native-ifood) [![Build Status](https://img.shields.io/github/forks/RenanBorba/react-native-ifood.svg)](https://github.com/RenanBorba/react-native-ifood) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-</div>
-
-<br><br>
-
-<div align="center">
+<br>
 
 ![76648878-4ea47580-653e-11ea-99b9-f87aa782a27b](https://user-images.githubusercontent.com/48495838/84699849-a7fab700-af28-11ea-8442-7f60bf64b2fe.png)
 
 </div>
 
-<br><br>
+<br>
 
 Aplicação Front-end desenvolvida em React Native para clone das principais interfaces do aplicativo Ifood, voltada para comercialização de alimentos e delivery de restaurantes, consumindo a API fake para as principais informações.<br>
 O projeto foi concebido pensando em maneiras fáceis para o desenvolvimento das principais interfaces, baseando-se em repositórios com aplicações semelhantes no Github.
@@ -209,7 +205,3 @@ O projeto foi concebido pensando em maneiras fáceis para o desenvolvimento das 
 <br><br><br>
 
 ![18](https://user-images.githubusercontent.com/48495838/76151808-bf0f4a80-6097-11ea-88fa-22659513e5ac.png)
-
-<br><br><br>
-
-Renan Borba.
