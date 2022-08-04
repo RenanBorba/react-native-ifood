@@ -85,7 +85,7 @@ O projeto foi concebido pensando em maneiras fáceis para o desenvolvimento das 
 <br><br>
 <br>
 
-## :mega: ⬇ Abaixo as principais interfaces:
+## :mega: ⬇ Abaixo, as principais interfaces:
 
 <br><br>
 <br>
