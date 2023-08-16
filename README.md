@@ -12,7 +12,8 @@
 
 <br>
 
-![76648878-4ea47580-653e-11ea-99b9-f87aa782a27b](https://user-images.githubusercontent.com/48495838/84699849-a7fab700-af28-11ea-8442-7f60bf64b2fe.png)
+![ifo_home](https://github.com/RenanBorba/react-native-ifood/assets/48495838/edf62fde-9529-44b5-9edb-ed0fbce91a42)
+
 
 </div>
 
