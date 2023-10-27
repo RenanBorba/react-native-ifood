@@ -12,7 +12,7 @@
 
 <br>
 
-![logo](https://github.com/RenanBorba/react-native-ifood/assets/48495838/4fc72f92-183c-46a9-a37d-f486df35ff45)
+![home](https://github.com/RenanBorba/react-native-ifood/assets/48495838/f122c376-cade-4f1f-84dc-1f1648dd2dc0)
 
 </div>
 
