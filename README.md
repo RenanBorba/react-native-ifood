@@ -21,7 +21,7 @@
 Aplicação Front-end desenvolvida em React Native para clone das principais interfaces do aplicativo Ifood, voltada para comercialização de alimentos e delivery de restaurantes, consumindo a API fake para as principais informações. 
 <br>
 
-O projeto foi concebido pensando em maneiras fáceis para o desenvolvimento das principais interfaces.
+O projeto foi concebido pensando em maneiras fáceis para o desenvolvimento das principais interfaces. 🍴
 
 <br><br>
 
